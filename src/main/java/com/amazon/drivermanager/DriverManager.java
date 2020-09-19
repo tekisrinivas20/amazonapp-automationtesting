@@ -34,7 +34,7 @@ public class DriverManager {
 		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Android");
 		capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
 		capabilities.setCapability(MobileCapabilityType.UDID, deviceUDID);
-		//capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
+		capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
 		capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, "360");
 		capabilities.setCapability("appPackage", "com.amazon.mShop.android.shopping");
 		capabilities.setCapability("appActivity", "com.amazon.mShop.splashscreen.StartupActivity");

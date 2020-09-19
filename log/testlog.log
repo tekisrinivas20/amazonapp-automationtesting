@@ -1,0 +1,22 @@
+2020-09-19 15:20:01,218 - com.amazon.test.AmazonAppTest -INFO - Tapped on sign In Button
+2020-09-19 15:20:08,389 - com.amazon.test.AmazonAppTest -INFO - Entered text in userName
+2020-09-19 15:20:10,528 - com.amazon.test.AmazonAppTest -INFO - Tapped on continue Button
+2020-09-19 15:20:13,733 - com.amazon.test.AmazonAppTest -INFO - Entered text in Password
+2020-09-19 15:20:15,438 - com.amazon.test.AmazonAppTest -INFO - Tapped on login Button
+2020-09-19 15:20:23,786 - com.amazon.test.AmazonAppTest -INFO - User successfully logged into app
+2020-09-19 15:20:30,086 - com.amazon.test.AmazonAppTest -INFO - Tapped on Search Field
+2020-09-19 15:20:33,390 - com.amazon.test.AmazonAppTest -INFO - Entered text in Search Field
+2020-09-19 15:20:37,208 - com.amazon.test.AmazonAppTest -INFO - Selected first value from Dropdown Suggestion
+2020-09-19 15:20:46,997 - com.amazon.test.AmazonAppTest -INFO - Tapped on Search item
+2020-09-19 15:20:52,572 - com.amazon.test.AmazonAppTest -INFO - selected Item Name : text value : Samsung 163 cm (65 inches) 4K Ultra HD Smart LED TV UA65TU8000KXXL (Black) (2020 Model)
+2020-09-19 15:20:52,574 - com.amazon.test.AmazonAppTest -INFO - Selected Item Name : Samsung 163 cm (65 inches) 4K Ultra HD Smart LED TV UA65TU8000KXXL (Black) (2020 Model)
+2020-09-19 15:21:03,013 - com.amazon.test.AmazonAppTest -INFO - selected Item Price : text value : rupees 1,19,990
+2020-09-19 15:21:03,015 - com.amazon.test.AmazonAppTest -INFO - Selected Item Price: rupees 1,19,990
+2020-09-19 15:21:10,252 - com.amazon.test.AmazonAppTest -INFO - Tapped on Addd to Cart Button
+2020-09-19 15:21:13,668 - com.amazon.test.AmazonAppTest -INFO - Tapped on cart icon
+2020-09-19 15:21:17,237 - com.amazon.test.AmazonAppTest -INFO - verify Item name Incart : text value : Samsung 163 cm (65 inches) 4K Ultra HD Smart LED TV UA65TU8000KX...
+2020-09-19 15:21:20,097 - com.amazon.test.AmazonAppTest -INFO - verify Item price Incart : text value :    1,19,990.00
+2020-09-19 15:21:20,103 - com.amazon.test.AmazonAppTest -INFO - Item Name in cart : "Samsung 163 cm (65 inches) 4K Ultra HD Smart LED TV UA65TU8000KX..." and selected Item Name "Samsung 163 cm (65 inches) 4K Ultra HD Smart LED TV UA65TU8000KXXL (Black) (2020 Model)"
+2020-09-19 15:21:20,105 - com.amazon.test.AmazonAppTest -INFO - Item Price in cart : "   1,19,990.00" and selected Item Price "rupees 1,19,990"
+2020-09-19 15:21:20,106 - com.amazon.test.AmazonAppTest -INFO - Verified selected item in cart
+2020-09-19 15:21:22,086 - com.amazon.test.AmazonAppTest -INFO - End of execution
